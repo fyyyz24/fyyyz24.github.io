@@ -38,7 +38,7 @@ redirect_from:
 
 # 📖 Education
 
-<div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f' width="20%" style="margin: 15px 10px 15px 10px;">
+<div style="display: flex; align-items: center;"><img src='images/hdu_logo.jpg' width="20%" style="margin: 15px 10px 15px 10px;">
   <ul style="margin-top: 15px;">
     <li><i>2023.06 - Present</i>, B.Eng.: Computer Science and Technology, <img src="images/hdu_cs.png" style="width: 1em;"> <a href="https://computer.hdu.edu.cn">School of Computer Science</a>, <img src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> <a href="https://www.hdu.edu.cn/">Hangzhou Dianzi University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/gfl">Fangli Guan</a>, <a href="https://faculty.hdu.edu.cn/jsjxy/grq">Ruiquan Ge</a></li>
   </ul>
