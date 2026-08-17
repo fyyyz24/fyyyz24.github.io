@@ -38,7 +38,7 @@ redirect_from:
 
 # 📖 Education
 
-<div style="display: flex; align-items: center;"><img src='images/hdu_cs.png' width="20%" style="margin: 15px 10px 15px 10px;">
+<div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f' width="20%" style="margin: 15px 10px 15px 10px;">
   <ul style="margin-top: 15px;">
     <li><i>2023.06 - Present</i>, B.Eng.: Computer Science and Technology, <img src="images/hdu_cs.png" style="width: 1em;"> <a href="https://computer.hdu.edu.cn">School of Computer Science</a>, <img src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> <a href="https://www.hdu.edu.cn/">Hangzhou Dianzi University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/gfl">Fangli Guan</a>, <a href="https://faculty.hdu.edu.cn/jsjxy/grq">Ruiquan Ge</a></li>
   </ul>
@@ -66,13 +66,15 @@ redirect_from:
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
   <ul>
+    <li><i>2026.07</i>: 🎉🎉 Our paper was <strong>Accepted</strong> to ACM MM 2026 <strong>(CCF-A)</strong>.</li>
+    <li><i>2026.07</i>: 🎉🎉 Our paper was <strong>Accepted</strong> to PRCV 2026 <strong>(CCF-C)</strong>.</li>
     <li><i>2026.06</i>: 🎉🎉 Won the <strong>National Third Prize</strong> in the China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.</li>
-    <li><i>2026.05</i>: 🎉🎉 Won the <strong>Meritorious Winner</strong> (International First Prize) in the Mathematical Contest in Modeling (MCM/ICM).</li>
-    <li><i>2026</i>: 🎉🎉 Our paper <strong>MIND</strong> was <strong>Accepted</strong> to ACM MM 2026 (CCF-A).</li>
-    <li><i>2026</i>: 🎉🎉 Our paper <strong>SCALPEL</strong> was <strong>Accepted</strong> to PRCV 2026 (CCF-C).</li>
+    <li><i>2026.05</i>: 🎉🎉 Won the <strong>Meritorious Winner</strong> <strong>(International First Prize)</strong> in the Mathematical Contest in Modeling (MCM/ICM).</li>
+    <li><i>2025.12</i>: 🎉🎉 Awarded the <strong>Tailong Bank Scholarship</strong>.</li>
+    <li><i>2025.12</i>: 🎉🎉 Awarded the <strong>Zhejiang Provincial Government Scholarship</strong>.</li>
     <li><i>2025.12</i>: 🎉🎉 Won the <strong>National Second Prize</strong> in the 2nd ICT Industry-Education Integration Innovation Competition.</li>
+    <li><i>2025.11</i>: 🎉🎉 Awarded the <strong>Hang Seng Electronics Scholarship</strong>.</li>
     <li><i>2025.05</i>: 🎉🎉 Won the <strong>Zhejiang Provincial Gold Medal</strong> in the 19th "Challenge Cup" competition.</li>
-    <li><i>2024-2025</i>: 🎉🎉 Awarded the <strong>Zhejiang Provincial Government Scholarship</strong>, Hang Seng Electronics Scholarship, and Tailong Bank Scholarship.</li>
   </ul>
 </div>
 
@@ -180,9 +182,10 @@ redirect_from:
 
 # 🤝 Leadership & Service
 
+- School of Computer Science Undergraduate Admissions Ambassador, HDU
 - President of the Student Union, School of Computer Science, HDU
 - Grade Assistant for the Class of 2025 freshmen, School of Computer Science, HDU
-- 118 hours of volunteer service; Outstanding Volunteer (优秀志愿者)
+- Core & Outstanding Volunteer for ATP 250 & FIFA World Cup Asian Qualifiers, HDU
 
 <span class='anchor' id='sports'></span>
 

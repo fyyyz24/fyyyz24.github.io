@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunzhan Fu (傅允湛)"
+  name             : "Yunzhan Fu"
   avatar           : "images/avatar.jpg"
-  bio              : "Multimodal Learning · Medical Image Analysis · Generative AI"
+  bio              : "Medical AI · Image Processing · Multimodal Fusion<br><i>文明其精神 野蛮其体魄</i>"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "fyyyz24"
+  douyin           : "https://v.douyin.com/Cngyhpf5At4/"
   google_plus      :
   keybase          :
   instagram        :
