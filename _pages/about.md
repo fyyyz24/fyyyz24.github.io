@@ -8,31 +8,57 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 # 😉 About Me
 
-🌱 Hi, I'm **Yunzhan Fu (傅允湛)**, an undergraduate student in Computer Science and Technology at [Hangzhou Dianzi University (HDU)](https://www.hdu.edu.cn), Hangzhou, China.
+🌱 Hi, I'm Yunzhan Fu (傅允湛), an undergraduate student major in Computer Science and Technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm).
 
-🔭 My research interests lie in **Medical Image Analysis**, **Multimodal Learning**, and **Generative AI**, with a focus on medical image fusion, medical vision-language representation learning, and diffusion models. I am the first author of papers accepted at **ACM MM** (CCF-A) and **PRCV** (CCF-C), and have additional first-author works under review at **IEEE TIP** (CCF-A, IF 15.3) and **Information Fusion** (SCI Q1, IF 17.4).
+🔭 I'm currently focused on **Medical AI**, **Image Processing**, and **Multimodal Fusion**.
+
+🔖 Academic Services: Conference Reviewers of **ACM MM**<sub>[2026](https://2026.acmmm.org/)</sub>, **MICCAI**<sub>[2026](https://conferences.miccai.org/2026/en/default.asp)</sub>, **ICME**<sub>[2026](https://2026.ieeeicme.org/)</sub>.
+
+🧑‍🤝‍🧑 Academic Communities: [**IEEE**](https://www.ieee.org/), [**AAAI**](https://aaai.org/), [**MICCAI**](https://miccai.org/).
 
 📫 How to reach me: [yunzhanfu@hdu.edu.cn](mailto:yunzhanfu@hdu.edu.cn).
 
-[![GitHub followers](https://img.shields.io/github/followers/fyyyz24)](https://github.com/fyyyz24)
+<a href='https://scholar.google.com/citations?user=TIKYVswAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![GitHub User's stars](https://img.shields.io/github/stars/fyyyz24)](https://github.com/fyyyz24)
+[![GitHub followers](https://img.shields.io/github/followers/fyyyz24)](https://github.com/fyyyz24)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=fyyyz24&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=fyyyz24)
 
 <span class='anchor' id='education'></span>
 
 # 📖 Education
 
-<div style="display: flex; align-items: center;">
-  <ul>
-    <li><i>2023.09 - Present</i>, B.Eng. in Computer Science and Technology, <a href="https://computer.hdu.edu.cn">School of Computer Science and Technology</a>, <a href="https://www.hdu.edu.cn">Hangzhou Dianzi University</a>, Hangzhou, China. GPA: <strong>4.535 / 5.000</strong> (Top 5%).</li>
+<div style="display: flex; align-items: center;"><img src='images/hdu_cs.png' width="20%" style="margin: 15px 10px 15px 10px;">
+  <ul style="margin-top: 15px;">
+    <li><i>2023.06 - Present</i>, B.Eng.: Computer Science and Technology, <img src="images/hdu_cs.png" style="width: 1em;"> <a href="https://computer.hdu.edu.cn">School of Computer Science</a>, <img src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> <a href="https://www.hdu.edu.cn/">Hangzhou Dianzi University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/gfl">Fangli Guan</a>, <a href="https://faculty.hdu.edu.cn/jsjxy/grq">Ruiquan Ge</a></li>
   </ul>
 </div>
 
-- **Core Courses**: Advanced Mathematics (98/100), Probability and Mathematical Statistics (92/100), Data Structures (91/100), Software Development Practice (92/100), Machine Learning (96/100), Deep Learning (92/100).
-- **English**: CET-4 (598), CET-6 (564).
+<span class='anchor' id='experience'></span>
+
+# 💻 Experience
+
+<div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/e67acd1f-481c-4732-9fa8-c45a1ba373b7' width="20%" style="margin: 15px 10px 15px 10px;">
+  <ul style="margin-top: 15px;">
+    <li><i>2026.01 - Present</i>, Research Intern: <img src="https://github.com/user-attachments/assets/d30e6690-19ad-4537-8871-95a3dea2c0f0" style="width: 1em;"> <a href="http://realdoctor.zju.edu.cn/index/">Real Doctor AI Research Center</a>, <img src="https://github.com/user-attachments/assets/6f365bf4-e50c-41d9-a569-3a0f71bba898" style="width: 1em;"> <a href="https://www.zju.edu.cn/">Zhejiang University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://person.zju.edu.cn/0004274">Jian Wu (吴健)</a></li>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/b105cced-5a82-4710-8570-0aaa7ffdb68e' width="20%" style="margin: 15px 10px 15px 10px;">
+  <ul style="margin-top: 15px;">
+    <li><i>2024.06 - 2026.06</i>, Research Intern: <img src="https://github.com/user-attachments/assets/83d4f53d-1321-4278-90b1-4b0659ad8feb" style="width: 1em;"> <a href="https://www.sribd.cn/">Shenzhen Research Institute of Big Data</a>, <img src="https://github.com/user-attachments/assets/d6e5f702-ea01-4251-9679-f274039bc9e3" style="width: 1em;"> <a href="https://www.cuhk.edu.cn/">The Chinese University of Hong Kong, Shenzhen</a>, Shenzhen, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://jiandanjinxin.github.io/changmiaowang/">Changmiao Wang (王昌淼)</a></li>
+  </ul>
+</div>
 
 <span class='anchor' id='news'></span>
 
@@ -50,6 +76,41 @@ redirect_from:
   </ul>
 </div>
 
+<span class='anchor' id='honors'></span>
+
+# 🎖 Honors and Awards
+
+<div style="max-height: 300px; overflow: auto; font-size: 15px;">
+  <ul>
+    <li><i>2026</i>: HDU School of Computer Science Undergraduate Admissions Ambassador</li>
+    <li><i>2026</i>: HDU Outstanding Student Union Cadre</li>
+    <li><i>2026</i>: HDU First-Class Scholarship <strong>(CNY 1,500.00)</strong></li>
+    <li><i>2025</i>: Zhejiang Provincial Government Scholarship <strong>(CNY 6,000.00)</strong></li>
+    <li><i>2025</i>: Hang Seng Electronics Scholarship <strong>(CNY 2,000.00)</strong></li>
+    <li><i>2025</i>: Zhejiang Tailong Bank Scholarship <strong>(CNY 3,000.00)</strong></li>
+    <li><i>2025</i>: HDU First-Class Scholarship <strong>(CNY 1,500.00)</strong></li>
+    <li><i>2025</i>: HDU Merit Student</li>
+    <li><i>2024</i>: HDU Star of Sports Candidate</li>
+    <li><i>2024</i>: HDU First-Class Scholarship <strong>(CNY 1,500.00)</strong></li>
+    <li><i>2024</i>: HDU School of Computer Science Figure of the Year <strong>(TOP 3/1543)</strong></li>
+    <li><i>2024</i>: HDU Merit Student</li>
+    <li><i>2024</i>: HDU First-Class Scholarship <strong>(CNY 1,500.00)</strong></li>
+    <li><i>2023</i>: HDU Advanced Individual in Student Military Training Publicity Work</li>
+  </ul>
+</div>
+
+<span class='anchor' id='funding'></span>
+
+# 💰 Funding
+
+<div style="max-height: 300px; overflow: auto; font-size: 15px;">
+  <ul>
+    <li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program <strong>(Key Member, CNY 10,000.00)</strong></li>
+    <li><i>2025</i>: "Danghong Cup" Excellence in Scientific Research and Education Special Program of the School of Computer Science at Hangzhou Dianzi University <strong>(Key Member, CNY 5,000.00)</strong></li>
+    <li><i>2024</i>: Zhejiang Xinmiao Talent Program <strong>(Completed)</strong> <strong>(Project Leader, CNY 10,000.00)</strong></li>
+  </ul>
+</div>
+
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
@@ -58,27 +119,29 @@ redirect_from:
 
 ## Conference Papers
 
-- <span class="highlight">ACM MM 2026</span> [**MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion**](https://arxiv.org/abs/2607.28565)  
-  <b>Yunzhan Fu</b>, Xiangyu Shen, Yifei Sun, Yuhan Chen, Jian Wu<sup>†</sup>, Hongxia Xu<sup>†</sup>  
-  <i>ACM International Conference on Multimedia (<strong>ACM MM</strong>) 2026</i> (<strong>CCF-A</strong>, Accepted, Poster)  
-  Proposes an intent-driven multimodal image fusion framework built on Diffusion Transformers (DiT), where intent-driven prompts guide a vision-language model to generate fusion text and a multi-scale latent adapter (MLA) preserves local continuity.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/acm_mm_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- <span class="highlight">PRCV 2026</span> **SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation**  
-  <b>Yunzhan Fu</b>, *et al.*  
-  <i>Pattern Recognition and Computer Vision (<strong>PRCV</strong>) 2026</i> (<strong>CCF-C</strong>, Accepted, Poster)  
-  Builds a semantic cross-modal alignment framework that converts PMC-LLaMA-13B into a clinical text encoder and introduces an Anatomy-Negation Aware Objective (ANAO) to mitigate false negatives in medical contrastive learning.
+[MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion](https://arxiv.org/abs/2607.28565)
 
-## Journal Papers
+<b>Yunzhan Fu</b>, Xiangyu Shen, Yifei Sun, Yuhan Chen, Jian Wu<sup>†</sup>, Hongxia Xu<sup>†</sup>
 
-- <span class="highlight">IEEE TIP</span> **FDHIFusion: A Frequency Domain High-order Interaction Network for Infrared and Visible Image Fusion**  
-  <b>Yunzhan Fu</b>, *et al.*  
-  <i>IEEE Transactions on Image Processing (<strong>IEEE TIP</strong>)</i> (<strong>CCF-A</strong> TOP Journal, Major Revision, IF 15.3)  
-  Proposes a frequency-spatial interaction module (FSIM) and a gated-channel interaction module (GCIM) for infrared-visible image fusion, improving global information extraction and downstream detection/segmentation performance.
+<i>ACM International Conference on Multimedia (<strong>ACM MM</strong>) 2026</i> (<strong>CCF-A</strong>, Accepted, Poster)
 
-- <span class="highlight">Information Fusion</span> **IMHF2Net: Incomplete Multimodal Hierarchical Feature Fusion Network for Mild Cognitive Impairment Conversion Prediction**  
-  <b>Yunzhan Fu</b><sup>&#42;</sup>, *et al.*  
-  <i>Information Fusion</i> (SCI Q1 TOP Journal, Under Review, IF 17.4)  
-  Proposes a GAN-based cross-modal generator (CMG) to synthesize missing PET images from MRI, and a hierarchical Mamba-cross-attention module (HMCA) with a hybrid fusion framework for MCI conversion prediction.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/prcv_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation](https://arxiv.org/abs/2607.26885)
+
+<b>Yunzhan Fu</b>, Enyu Bao, Xiangyu Shen, Yihao Wu, Chunbo Jiang, Fangli Guan, Liqi Yan
+
+<i>Pattern Recognition and Computer Vision (<strong>PRCV</strong>) 2026</i> (<strong>CCF-C</strong>, Accepted, Poster)
+
+</div>
+</div>
 
 <span class='anchor' id='projects'></span>
 
@@ -100,26 +163,18 @@ redirect_from:
   </ul>
 </div>
 
-<span class='anchor' id='honors'></span>
-
-# 🎖 Honors and Awards
-
-- <i>2024-2025</i>: Zhejiang Provincial Government Scholarship (浙江省政府奖学金)
-- <i>2024-2025</i>: Hang Seng Electronics Scholarship (恒生电子奖学金)
-- <i>2024-2025</i>: Zhejiang Tailong Bank Scholarship (浙江省泰隆银行奖学金)
-- <i>2025</i>: Figure of the Year, School of Computer Science, HDU (计算机学院风云人物)
-- First-Class University Scholarship × 4 (校优秀学生一等奖学金)
-- University "Three-Good Student" × 2 (校级三好学生)
-- University Outstanding Individual (校级先进个人)
-
 <span class='anchor' id='competitions'></span>
 
-# 🏆 Competitions
+# 🏇🏻 Competitions
 
-- <i>2026.06</i>: China College Students' Service Outsourcing Innovation and Entrepreneurship Competition — <strong>National Third Prize</strong>
-- <i>2026.05</i>: Mathematical Contest in Modeling (MCM/ICM) — <strong>Meritorious Winner</strong> (International First Prize)
-- <i>2025.12</i>: 2nd ICT Industry-Education Integration Innovation Competition — <strong>National Second Prize</strong> (Project Leader)
-- <i>2025.05</i>: 19th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition — <strong>Zhejiang Provincial Gold Medal</strong> (Technical Lead)
+<div style="max-height: 300px; overflow: auto; font-size: 15px;">
+  <ul>
+    <li><i>2026.06</i>: China College Students' Service Outsourcing Innovation and Entrepreneurship Competition — <strong>National Third Prize</strong></li>
+    <li><i>2026.05</i>: Mathematical Contest in Modeling (MCM/ICM) — <strong>Meritorious Winner</strong> <strong>(International First Prize)</strong></li>
+    <li><i>2025.12</i>: 2nd ICT Industry-Education Integration Innovation Competition — <strong>National Second Prize</strong> <strong>(Project Leader)</strong></li>
+    <li><i>2025.05</i>: 19th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition — <strong>Zhejiang Provincial Gold Medal</strong> <strong>(Technical Lead)</strong></li>
+  </ul>
+</div>
 
 <span class='anchor' id='service'></span>
 
@@ -128,3 +183,23 @@ redirect_from:
 - President of the Student Union, School of Computer Science, HDU
 - Grade Assistant for the Class of 2025 freshmen, School of Computer Science, HDU
 - 118 hours of volunteer service; Outstanding Volunteer (优秀志愿者)
+
+<span class='anchor' id='sports'></span>
+
+# 🏀 Sports
+
+<div style="max-height: 300px; overflow: auto; font-size: 15px;">
+  <ul>
+    <li><i>2025</i>: Bronze, Men's 4×100m Relay, 41st HDU Sports Meet</li>
+    <li><i>2025</i>: Core Volunteer, ATP 250 Hangzhou Open</li>
+    <li><i>2025</i>: Core Volunteer, FIFA World Cup Asian Qualifiers</li>
+    <li><i>2024</i>: 6th Place, Men's Basketball, HDU Branch Cup</li>
+    <li><i>2024</i>: Athlete, 27th CUBA <strong>(PG)</strong></li>
+    <li><i>2024</i>: 6th Place, Gatorade Cup Xiasha Basketball League</li>
+    <li><i>2024</i>: Athlete, ZUBA Men's Basketball <strong>(PG)</strong></li>
+    <li><i>2023</i>: Bronze, Men's 100m, Freshmen Track Challenge</li>
+    <li><i>2023</i>: Member, HDU Men's Varsity Basketball Team</li>
+    <li><i>2023</i>: Top-8, Freshmen Men's Basketball Cup <strong>(SF)</strong></li>
+    <li><i>2023</i>: HDU Annual Sports Star</li>
+  </ul>
+</div>

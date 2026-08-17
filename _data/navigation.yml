@@ -6,8 +6,17 @@ main:
   - title: "Education"
     url: "/#education"
 
+  - title: "Experience"
+    url: "/#experience"
+
   - title: "News"
     url: "/#news"
+
+  - title: "Honors"
+    url: "/#honors"
+
+  - title: "Funding"
+    url: "/#funding"
 
   - title: "Publications"
     url: "/#publications"
@@ -18,11 +27,11 @@ main:
   - title: "Patents"
     url: "/#patents"
 
-  - title: "Honors"
-    url: "/#honors"
-
   - title: "Competitions"
     url: "/#competitions"
 
   - title: "Service"
     url: "/#service"
+
+  - title: "Sports"
+    url: "/#sports"
