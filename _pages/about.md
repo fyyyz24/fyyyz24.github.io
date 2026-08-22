@@ -133,10 +133,10 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/prcv_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><a href="https://fyyyz24.github.io/SCALPEL-Project-Page/" target="_blank"><img src='images/prcv_overview.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation](https://arxiv.org/abs/2607.26885)
+[SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation](https://arxiv.org/abs/2607.26885) [[🌐 Project Page]](https://fyyyz24.github.io/SCALPEL-Project-Page/) [[🧑🏻‍💻 Code]](https://github.com/fyyyz24/SCALPEL)
 
 <b>Yunzhan Fu</b>, Enyu Bao, Xiangyu Shen, Yihao Wu, Chunbo Jiang, Fangli Guan, Liqi Yan
 
