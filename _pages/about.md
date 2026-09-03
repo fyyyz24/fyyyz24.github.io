@@ -162,7 +162,7 @@ redirect_from:
     <li><i>Granted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">基于鸟瞰图分层交互感知的室内语义场景补全方法及系统</a> (<strong>CN 121526928 A</strong>, First Inventor)</li>
     <li><i>Granted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于物理约束的安全金属伪影去除推理方法</a> (<strong>CN 121414925 B</strong>, Key Inventor)</li>
     <li><i>Granted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于时空增强与轨迹平滑的机器人VLA协同控制方法</a> (<strong>CN 122334339 B</strong>, Third Inventor)</li>
-    <li><i>Accepted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于 MIND 模型的意图驱动多模态医学图像融合方法及系统</a> (<strong>2026111359839 B</strong>, Third Inventor)</li>
+    <li><i>Accepted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于 MIND 模型的意图驱动多模态医学图像融合方法及系统</a> (<strong>2026111359839</strong>, Second Inventor)</li>
   </ul>
 </div>
 
