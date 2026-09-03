@@ -121,14 +121,14 @@ redirect_from:
 
 ## Conference Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/acm_mm_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><a href="https://fyyyz24.github.io/MIND-Project-Page/" target="_blank"><img src='images/acm_mm_overview.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion](https://arxiv.org/abs/2607.28565)
+[MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion](https://arxiv.org/abs/2607.28565) [[🌐 Project Page]](https://fyyyz24.github.io/MIND-Project-Page/) [[🧑🏻‍💻 Code]](https://github.com/fyyyz24/MIND)
 
 <b>Yunzhan Fu</b>, Xiangyu Shen, Yifei Sun, Yuhan Chen, Jian Wu<sup>†</sup>, Hongxia Xu<sup>†</sup>
 
-<i>ACM International Conference on Multimedia (<strong>ACM MM</strong>) 2026</i> (<strong>CCF-A</strong>, Accepted, Poster)
+<i>ACM International Conference on Multimedia (<strong>ACM MM</strong>) 2026</i> (<strong>CCF-A</strong>, Accepted)
 
 </div>
 </div>
@@ -140,7 +140,7 @@ redirect_from:
 
 <b>Yunzhan Fu</b>, Enyu Bao, Xiangyu Shen, Yihao Wu, Chunbo Jiang, Fangli Guan, Liqi Yan
 
-<i>Pattern Recognition and Computer Vision (<strong>PRCV</strong>) 2026</i> (<strong>CCF-C</strong>, Accepted, Poster)
+<i>Pattern Recognition and Computer Vision (<strong>PRCV</strong>) 2026</i> (<strong>CCF-C</strong>, Accepted)
 
 </div>
 </div>
@@ -161,7 +161,8 @@ redirect_from:
     <li><i>Granted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于频域高阶交互的红外-可见光图像融合方法</a> (<strong>CN 120563337 A</strong>, First Inventor)</li>
     <li><i>Granted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">基于鸟瞰图分层交互感知的室内语义场景补全方法及系统</a> (<strong>CN 121526928 A</strong>, First Inventor)</li>
     <li><i>Granted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于物理约束的安全金属伪影去除推理方法</a> (<strong>CN 121414925 B</strong>, Key Inventor)</li>
-    <li><i>Published</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于时空增强与轨迹平滑的机器人VLA协同控制方法</a> (<strong>Application No. 2026108000089</strong>, Third Inventor)</li>
+    <li><i>Granted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于时空增强与轨迹平滑的机器人VLA协同控制方法</a> (<strong>CN 122334339 B</strong>, Third Inventor)</li>
+    <li><i>Accepted</i>: <a href="https://pss-system.cponline.cnipa.gov.cn/">一种基于 MIND 模型的意图驱动多模态医学图像融合方法及系统</a> (<strong>2026111359839 B</strong>, Third Inventor)</li>
   </ul>
 </div>
 
