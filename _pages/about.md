@@ -84,6 +84,8 @@ redirect_from:
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
   <ul>
+    <li><i>2026</i>: Special Review Award of the National Scholarship <strong style="color: red;">(TOP10 students in Zhejiang)</strong></li>
+    <li><i>2026</i>: China National Scholarship <strong style="color: red;">(CNY 10,000.00)</strong></li>
     <li><i>2026</i>: HDU School of Computer Science Undergraduate Admissions Ambassador</li>
     <li><i>2026</i>: HDU Outstanding Student Union Cadre</li>
     <li><i>2026</i>: HDU First-Class Scholarship <strong>(CNY 1,500.00)</strong></li>
